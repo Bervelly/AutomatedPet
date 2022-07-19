@@ -1,0 +1,7 @@
+{
+    "petId successfully": "api_pet/get_petid.json",
+    "pet registered successfully": "api_pet/post_pet.json",
+    "orderId successfully": "api_store/get_store_orderid.json",
+    "order registered successfully": "api_store/post_store.json",
+    "pet changed successfully": "api_pet/put_pet.json"
+}
